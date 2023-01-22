@@ -1,9 +1,7 @@
 ## Bem vind@s ao meu Mundo dos Projetos 👨🏻‍💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneres&hide=contribs,prs&count_private=true&show_icons=true&theme=highcontrast)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&layout=compact&theme=highcontrast)](https://github.com/edneres/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arduino&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&theme=react)](https://github.com/edneres/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneres&hide=contribs,prs&count_private=true&show_icons=true&theme=react)
 ##
 
 <div style="display: inline_block"><br>  
@@ -41,3 +39,7 @@
 </div>
 
 ##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=ComPETcao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Beecrowd---URI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Algoritmos_e_Programacao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arduino&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Projetos-PIC-16F877A-&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arquitetura-de-Sistemas-Computacionais&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
