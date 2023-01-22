@@ -2,6 +2,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&theme=react)](https://github.com/edneres/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneres&hide=contribs,prs&count_private=true&show_icons=true&theme=react)
+
 ##
 
 <div style="display: inline_block"><br>  
@@ -13,6 +14,8 @@
   <img align="center" alt="ed-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="ed-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
+
+##
 
 🧑🏻 ela/dela 🏳️‍🌈
 
