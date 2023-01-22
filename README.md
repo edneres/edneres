@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneres&hide=contribs,prs&count_private=true&show_icons=true&theme=highcontrast)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&layout=compact&theme=highcontrast)](https://github.com/edneres/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=github-readme-stats&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arduino&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
