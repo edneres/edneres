@@ -18,15 +18,15 @@
 
 🧑🏻 ela/dela 🏳️‍🌈
 
-✌🏻 21 anos
+✌🏻 22 anos
 
 🏆 Medalhista na Olimpíada Brasileira de Astronomia e Astronáutica, na Olimpíada Piauiense de Química, mensão honrosa na Maratona de Programação (2021) e ganhadora da primeira ComPETção de Arduino (UFPI)
+
+🤖 Robótica Industrial, Automação e Controle, Gamificação e Programação são os meus fortes profissionais 
 
 🤾🏻 Goleira de Handebol
 
 🎮 Amante de jogos antigos
-
-🎸 Aprendi a tocar violão, guitarra e ukulele sozinha... atualmente aprendendo bateria
 
 🎶 Muito fã do ABBA, de The Cranberries, da Cindy Lauper, da Joan Jett, de 5H, de RBD e do Roupa Nova
 
