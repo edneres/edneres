@@ -51,17 +51,7 @@
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/edneres/edneres/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/edneres/edneres/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/edneres/edneres/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <br>
-<br>
-<br>
-<br>
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=ComPETcao&theme=dark)](https://github.com/edneres/ComPETcao)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=PIC_16F877A&theme=dark)](https://github.com/edneres/PIC_16F877A)
