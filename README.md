@@ -1,11 +1,19 @@
-## Bem vind@s ao meu Mundo de Projetos 👨🏻‍💻
+<div align="center">
+  
+# <span style="font-size:36px;">Welcome to my World of Projects 👨🏻‍💻</span>
+<br>
 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&theme=react)](https://github.com/edneres/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edneres&hide=contribs,prs&count_private=true&show_icons=true&theme=react)
+<div align="center">
+  <a href="https://github.com/edneres">
+  <img height="290em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&theme=react&include_all_commits=true"/>
+  <img height="290em" width="45%" src="https://github-readme-stats.vercel.app/api?username=edneres&theme=react&hide=contribs,prs&count_private=true&show_icons=true)"/>
+</div>
+    
+<br>
 
-##
-
-<div style="display: inline_block"><br>  
+<div align="center", style="display: inline_block"><br>
   <img align="center" alt="ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ed-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
   <img align="center" alt="ed-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -16,23 +24,25 @@
 </div>
 
 
-🧑🏻 ela/dela 🏳️‍🌈
+##
 
-✌🏻 22 anos
+🧑🏻 Electrical Engineering Student at the Federal University of Piauí
 
-🏆 Medalhista na Olimpíada Brasileira de Astronomia e Astronáutica, na Olimpíada Piauiense de Química, mensão honrosa na Maratona de Programação (2021) e ganhadora da primeira ComPETção de Arduino (UFPI)
+🧠 Member of the Academic League of Intelligent Systems 
 
-🤖 Robótica Industrial, Automação e Controle, Gamificação e Programação são os meus fortes profissionais 
+👨🏻‍💻 Industrial Robotics | Control and Automation | Gamification | Microcontrollers | Arduino | PIC | C, C++ | Python 
 
-🤾🏻 Goleira de Handebol
+🤾🏻 Handball Goalkeeper
 
-🎮 Amante de jogos antigos
+🎮 Lover of old games
 
-🎶 Muito fã do ABBA, de The Cranberries, da Cindy Lauper, da Joan Jett, de 5H, de RBD e do Roupa Nova
+🎶 Big fan of ABBA, The Cranberries, Cindy Lauper, Joan Jett, 5H, RBD and Roupa Nova
 
-📺 Avatar, Steven Universo e Hora de Aventura são as minhas animações preferidas 
+📺 Avatar, Steven Universe and Adventure Time are my favorite animations
 
-<div> 
+<br>
+
+<div align="center"> 
    <a href="https://www.instagram.com/ed_neres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:edneres@ufpi.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-ediv%C3%A2nia-026585236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -41,11 +51,19 @@
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=ComPETcao&theme=dark)](https://github.com/edneres/ComPETcao)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Beecrowd---URI&theme=dark)](https://github.com/edneres/Beecrowd---URI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arduino&theme=dark)](https://github.com/edneres/Arduino)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Projetos_PIC-Listas-&theme=dark)](https://github.com/edneres/Projetos_PIC-Listas-)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Projetos-PIC-16F877A-&theme=dark)](https://github.com/edneres/Projetos-PIC-16F877A-)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arquitetura-de-Sistemas-Computacionais&theme=dark)](https://github.com/edneres/Arquitetura-de-Sistemas-Computacionais)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br>
+<br>
+<br>
+<br>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=ComPETcao&theme=dark)](https://github.com/edneres/ComPETcao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=PIC_16F877A&theme=dark)](https://github.com/edneres/PIC_16F877A)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arduino_Maker&theme=dark)](https://github.com/edneres/Arduino_Maker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Beecrowd---URI&theme=dark)](https://github.com/edneres/Beecrowd---URI)
