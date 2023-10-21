@@ -1,6 +1,6 @@
 <div align="center">
   
-# <span style="font-size:36px;">Welcome to my World of Projects 👨🏻‍💻</span>
+# <span style="font-size:30px;">Welcome to my World of Projects 👨🏻‍💻</span>
 <br>
 
 </div>
@@ -52,9 +52,9 @@
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/edneres/edneres/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/edneres/edneres/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/edneres/edneres/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br>
