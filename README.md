@@ -43,3 +43,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=ComPETcao&theme=dark)](https://github.com/edneres/ComPETcao)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Beecrowd---URI&theme=dark)](https://github.com/edneres/Beecrowd---URI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arduino&theme=dark)](https://github.com/edneres/Arduino)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Projetos_PIC-Listas-&theme=dark)](https://github.com/edneres/Projetos_PIC-Listas-)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Projetos-PIC-16F877A-&theme=dark)](https://github.com/edneres/Projetos-PIC-16F877A-)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=Arquitetura-de-Sistemas-Computacionais&theme=dark)](https://github.com/edneres/Arquitetura-de-Sistemas-Computacionais)
+
+
+
+![Snake animation](https://github.com/edneres/edneres/blob/output/github-contribution-grid-snake.svg) 
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=edneres&repo=edneres&theme=react)](https://github.com/edneres/edneres)
