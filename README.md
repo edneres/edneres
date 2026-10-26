@@ -21,7 +21,7 @@
 
 🎓 Electrical Engineering student at the **Federal University of Piauí (UFPI)**
 
-⚡ Interested in **Control, Automation and Electrical Systems**
+⚡ Interested in **Control, Automation and Power Systems**
 
 🐍 Developing **Python automation and RPA solutions**
 
