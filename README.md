@@ -8,10 +8,15 @@
 
 <br>
 
-<a href="https://github.com/edneres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edneres&theme=react&hide=contribs,prs&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&theme=react&layout=compact"/>
-</a>
+<div align="center">
+
+  <img
+    width="75%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edneres&theme=react&layout=compact&langs_count=10"
+    alt="Most Used Languages"
+  />
+
+</div>
 
 </div>
 
@@ -30,30 +35,6 @@
 🔌 Experience with **Arduino, PIC, C and C++**
 
 🧠 Member of the **Academic League of Intelligent Systems**
-
-<br>
-
-## 🚀 What I've Been Building
-
-### 🤖 BitolaBot GD
-> SAP automation for Distributed Generation analysis and automatic electrical cable sizing.
-
-`Python` `SAP` `PyWinAuto` `OCR` `Excel`
-
-### 📱 Torpedo Clima
-> Automated WhatsApp alerts and report delivery.
-
-`Python` `Selenium` `WhatsApp Web`
-
-### 📊 BI Automation
-> Automated database downloads and preparation for BI dashboards.
-
-`Python` `Selenium` `PyWinAuto` `Excel`
-
-### 📷 Field Report Web App
-> Web app for field records, photos, geolocation and automatic PDF reports.
-
-`JavaScript` `HTML` `CSS` `IndexedDB` `jsPDF`
 
 <br>
 
